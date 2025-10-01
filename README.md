@@ -28,8 +28,7 @@ The project was broken down into several key stages:
 - Performed EDA to understand the relationships between different launch variables and the landing outcome.
 - Created an interactive **Dashboard** using Plotly Dash to visualize key metrics, such as success rates by launch site and orbit type.
 
-*_(You can add a screenshot of your dashboard here!)*
-![Dashboard Screenshot](https://placehold.co/800x400/FFFFFF/000000?text=Your+Dashboard+Screenshot)
+![Dashboard Screenshot](https://github.com/zeeshanmurad65/Applied-Data-Science-Capstone/blob/main/dashboard.png)
 
 ### 4. Model Development & Evaluation
 - The dataset was split into training and testing sets using **`train_test_split`** to ensure a fair evaluation of the models.
